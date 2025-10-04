@@ -1,2 +1,2 @@
 # E-commerce2
-An E-Commerce website by using html, css, bootstraps, javascript, php and MySQL database, it is responsive and dynamic website.
+A modern PHP & MySQL powered e-commerce website with responsive design and dynamic shopping features.
